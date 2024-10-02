@@ -31,7 +31,7 @@ To run the project, you need to have Docker installed on your machine. Later, yo
 1. Clone the repository:
 
     ```bash
-    git clone
+    git clone https://github.com/Alysson-Araujo/volunteer-registration-system.git
     ```
 
 2. Go to the root directory of the projects email and volunteer to create the Docker images and run the containers:
